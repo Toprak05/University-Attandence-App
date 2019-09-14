@@ -1,0 +1,4 @@
+#Wed May 08 07:04:07 EET 2019
+base.0=C\:\\Users\\erenk\\Desktop\\mobil_prog\\Android-Attendance-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
